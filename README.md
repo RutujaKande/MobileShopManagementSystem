@@ -1,7 +1,17 @@
-# Mobile Shop Management System
-MobiShop Inventory Management System
-A Node.js app with MongoDB, managing mobile shop inventory. 
-Features:  Add, update, delete products. Track daily/monthly/yearly profits.
-           Streamlined ordering &amp; inventory. 
-           Reduces errors &amp; boosts efficiency. 
-           Built with HTML, CSS, JavaScript,Node.Js,Express.js,MongoDB.
+# Mobile Shop Inventory Management System 
+
+A Node.js app with MongoDB, managing mobile shop inventory.
+
+Features: 
+           
+ 1)Add, update, delete products. 
+ 
+ 2)Track daily/monthly/yearly profits. 
+
+ 3)Streamlined ordering &amp; inventory.   
+            
+ 4)Reduces errors &amp; boosts efficiency.  
+
+           
+Built with HTML, CSS, JavaScript,Node.Js,Express.js,MongoDB.  
+           
